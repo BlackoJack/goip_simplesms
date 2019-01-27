@@ -1,0 +1,5 @@
+goip_login="<goip login>"
+goip_password="<goip password>"
+goip_scheme="<http or https>"
+goip_host="<goip host>"
+goip_port="<goip port>"
