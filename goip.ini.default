@@ -1,0 +1,6 @@
+goip_login="admin"
+goip_password="admin"
+goip_scheme="http"
+goip_host="192.168.0.5"
+goip_port="80"
+goip_timeout=25
