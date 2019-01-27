@@ -19,5 +19,5 @@ cp goip.ini.sample goip.ini
 
 Use:
 ```
-./send <line number in goip> <phone number> "<message>"
+./send.sh <line number in goip> <phone number> "<message>"
 ```
